@@ -17,6 +17,3 @@ Email: lgdyangninghua@163.com
 * 2021 🎉 PointCloud Registration Challenges(ICCV Workshop 2021): Rank the 2<sup>nd</sup> place [Point Cloud Registration using Representative Overlapping Points](https://arxiv.org/abs/2107.02583).
 * 2018 🎉 ImageMatch/FeatureMatch: [图像匹配方法研究综述](https://cjig.cn/zh/article/doi/10.11834/jig.180501/).
 * 2017 🎉 ImageMatch/TemplateMatch: [像对匹配的模板选择与匹配](https://cjig.cn/zh/article/doi/10.11834/jig.170156/).
-
-
-Point Cloud Registration using Representative Overlapping Points
