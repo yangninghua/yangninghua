@@ -15,5 +15,5 @@ Email: lgdyangninghua@163.com
 * 2024 🎉 Stereo Matching: [A Transformer-Based Architecture for High-Resolution Stereo Matching](https://ieeexplore.ieee.org/document/10387769).
 * 2022 🎉 PointCloud Classification Challenges(ECCV Workshop 2022): Rank the 2<sup>nd</sup> place [Point-Voxel Adaptive Feature Abstraction for Robust Point Cloud Classification](https://arxiv.org/pdf/2210.15514).
 * 2021 🎉 PointCloud Registration Challenges(ICCV Workshop 2021): Rank the 2<sup>nd</sup> place [Point Cloud Registration using Representative Overlapping Points](https://arxiv.org/abs/2107.02583).
-* 2018 🎉 ImageMatch/FeatureMatch: [图像匹配方法研究综述](https://cjig.cn/zh/article/doi/10.11834/jig.180501/).
-* 2017 🎉 ImageMatch/TemplateMatch: [像对匹配的模板选择与匹配](https://cjig.cn/zh/article/doi/10.11834/jig.170156/).
+* 2018 🎉 ImageMatch/FeatureMatch(Chinese Journals): [A Review of Image Matching Methods](https://cjig.cn/zh/article/doi/10.11834/jig.180501/).
+* 2017 🎉 ImageMatch/TemplateMatch(Chinese Journals): [Template selection and matching algorithm for image matching](https://cjig.cn/zh/article/doi/10.11834/jig.170156/).
