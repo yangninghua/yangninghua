@@ -9,7 +9,7 @@ Email: lgdyangninghua@163.com
 
 ## 🔥🔥🔥 News
 
-* 2025 🎉 Video Unmasked Teacher Distillation: [unmasked_teacher_mlcd_distillation_single_modality](https://github.com/OpenVFM/unmasked_teacher_mlcd_distillation_single_modality).
+* 2025 🎉 Video Unmasked Teacher Distillation: [unmasked_teacher_mlcd_distillation_single_modality](https://github.com/yangninghua/unmasked_teacher_mlcd_distillation_single_modality).
 * 2025 🎉 Video Benchmark Suite: [Video Benchmark Suite: Rapid Evaluation of Video Foundation Models](https://github.com/OpenVFM/Video_Benchmark_Suite).
 * 2024 🎉 Video Pretrain Speedup: [V-SWIFT: Training a Small VideoMAE Model on a Single Machine in a Day](https://github.com/OpenVFM/V-SWIFT).
 * 2024 🎉 Visual Auto-Regressive: [VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modelin](https://arxiv.org/pdf/2408.01181).
